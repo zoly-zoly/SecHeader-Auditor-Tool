@@ -8,5 +8,5 @@ Thank you for your interest in contributing to **SecHeader-Auditor**! Contributi
 
 1. **Fork the repository** on GitHub and clone your fork locally:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SecHeader-Auditor.git](https://github.com/YOUR_USERNAME/SecHeader-Auditor.git)
-   cd SecHeader-Auditor
+   git clone https://github.com/zoly-zoly/SecHeader-Auditor-Tool.git
+   cd SecHeader-Auditor-Tool
