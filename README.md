@@ -94,8 +94,8 @@ Follow these exact steps from the moment you clone the repository to run the too
 ### Step 1: Clone the Repository
 Open your terminal, clone the repository from GitHub, and enter the project folder:
 ```bash
-git clone [https://github.com/yourusername/SecHeader-Auditor.git](https://github.com/yourusername/SecHeader-Auditor.git)
-cd SecHeader-Auditor
+git clone https://github.com/zoly-zoly/SecHeader-Auditor-Tool.git
+cd SecHeader-Auditor-Tool
 ```
 
 ### Step 2: Create an Isolated Virtual Environment
